@@ -1,9 +1,9 @@
-# Репозиторий для домашних заданий по курсу "Python для анализа данных"
+# Repository for Homework Assignments in the "Python for Data Analysis" Course
 
-В репозитории содержатся выполненные домашние задания по курсу "Python для анализа данных".
+This repository contains completed homework assignments for the "Python for Data Analysis" course.
 
-## Структура репозитория
-- `README.md` - описание репозитория
-- `HW/` - директория с домашними заданиями
-- `requirements.txt` - библиотеки из виртуального окружения
-- `.gitignore` - имена файлов и директорий, которые игнорируются Git
+## Repository Structure
+- `README.md` - repository description
+- `HW/` - directory containing homework assignments
+- `requirements.txt` - libraries from the virtual environment
+- `.gitignore` - names of files and directories ignored by Git
